@@ -106,4 +106,4 @@ Enhance visuals with advanced drill-downs
 
 Swayam
 Aspiring Data Analyst
-📌 Skills: Data Analysis, Power BI, Excel, SQ
+📌 Skills: Data Analysis, Power BI, Excel, SQl, Python
